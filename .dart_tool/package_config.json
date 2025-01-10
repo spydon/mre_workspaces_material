@@ -342,15 +342,9 @@
       "rootUri": "../packages/a",
       "packageUri": "lib/",
       "languageVersion": "3.6"
-    },
-    {
-      "name": "example",
-      "rootUri": "../packages/a/example",
-      "packageUri": "lib/",
-      "languageVersion": "3.6"
     }
   ],
-  "generated": "2025-01-10T13:46:29.264019Z",
+  "generated": "2025-01-10T13:47:15.186545Z",
   "generator": "pub",
   "generatorVersion": "3.6.0",
   "flutterRoot": "file:///home/spydon/bin/flutter",
